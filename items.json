@@ -1,0 +1,72 @@
+[
+    {
+        "name": "现金",
+        "des": "5000现金一份",
+        "price": "50",
+        "imageSrc": "images/cashes.webp",
+        "imageAlt": ""
+    },
+    {
+        "name": "金条",
+        "des": "500g 24k纯金金条",
+        "price": "50",
+        "imageSrc": "/images/golden.bmp",
+        "imageAlt": ""
+    },
+    {
+        "name": "iPhone 14 Pro Max ",
+        "des": "1TB 暗紫色",
+        "price": "50",
+        "imageSrc": "/images/iphone.png",
+        "imageAlt": ""
+    },
+    {
+        "name": "Lv Trainer 套装",
+        "des": "套装内包含黑色和牛仔蓝各一双",
+        "price": "50",
+        "imageSrc": "/images/lvtrainer.webp",
+        "imageAlt": ""
+    },
+    {
+        "name": "黄桃罐头",
+        "des": "一箱黄桃罐头",
+        "price": "50",
+        "imageSrc": "/images/huangtao.webp",
+        "imageAlt": ""
+    },
+    {
+        "name": "钙奶片",
+            "des": "一盒钙奶片，共4板，每板10片",
+            "price": "50",
+            "imageSrc": "/images/milkpile.webp",
+            "imageAlt": ""
+    },
+    {
+        "name": "奥利奥",
+        "des": "一箱奥里奥",
+        "price": "50",
+        "imageSrc": "/images/oreo.webp",
+        "imageAlt": ""
+    },
+    {
+        "name": "薯片",
+        "des": "盲盒发货薯片，包含各类牌子和味道",
+        "price": "50",
+        "imageSrc": "/images/chips.webp",
+        "imageAlt": ""
+    },
+    {
+        "name": "康师傅泡面",
+        "des": "味道随机发货",
+        "price": "50",
+        "imageSrc": "/images/kangshifu.bmp",
+        "imageAlt": ""
+    },
+    {
+        "name": "旺仔牛奶",
+        "des": "儿童节限定版",
+        "price": "50",
+        "imageSrc": "/images/wangzai.bmp",
+        "imageAlt": ""
+    }
+]
